@@ -1,9 +1,11 @@
-#编译安装方法：
+编译安装方法：
+------------
 ./configure
 make
 [sudo] make install
 
-#使用方法
+使用方法
+-------
 nali #ip#
 即可得到IP所在地区的信息
 采用的纯真IP数据库
