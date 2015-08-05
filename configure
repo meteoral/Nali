@@ -77,7 +77,7 @@ EOF
 
 cat > bin/nali-update << EOF
 #!/bin/sh
-qqwry_dat_url="http://liuqingwei.com/ip/QQWry.Dat";
+qqwry_dat_url="http://www.liuqingwei.com/ip/QQWry.Dat";
 qqwry_dat_local_path="$datadir/QQWry.Dat"
 curl=\`which curl\`
 wget=\`which wget\`
