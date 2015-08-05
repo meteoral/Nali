@@ -13,3 +13,4 @@ bash:~# nali **IP**
 nali-update更新数据库  
 (<https://github.com/meteoral/IPUpdate> 此项目为自动更新纯真数据库)  
 nali-ping 直接ping域名对应IP的所在地区
+版权归原作者(https://www.surfchen.org/nali)享有，仅在原有基础上进行优化
